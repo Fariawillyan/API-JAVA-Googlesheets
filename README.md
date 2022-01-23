@@ -52,5 +52,4 @@ Estou à Disposição.
 
 <p>Obrigado pela atenção.📢 </p>
 <p>Bora nos conhecer ??? 🍺 </p>
-<p>Sempre a disposição. 🤓 </p>
 <p>Abraço!</p>
