@@ -1,3 +1,5 @@
+![faria](https://img.shields.io/github/issues/Fariawillyan/API-JAVA-Googlesheets) ![faria2](https://img.shields.io/github/forks/Fariawillyan/API-JAVA-Googlesheets) ![](https://img.shields.io/github/stars/Fariawillyan/API-JAVA-Googlesheets)
+
 # API-JAVA-Googlesheets
 
 ## 🚀 API com CRUD
