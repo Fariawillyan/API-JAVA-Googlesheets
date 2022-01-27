@@ -5,7 +5,7 @@
 ## 🚀 API com CRUD
 
 Essa simples API foi desenvolvida para mostrar o início do meu trabalho. O intuito do projeto é criar uma conexão com DB atráves das dependências e métodos do google API e conhecimento de linguagem JAVA.
-A criação do CRUD foi feito com cadastro para Nome , Agência , Conta Corrente , Banco , CPF , Ativo Digital e Saldo. Foi adicionado também no pom.xml algumas dependências de spring, lombok, mysql, flyway e outras para futuras implementações.
+A criação do CRUD foi feito com cadastro para Nome , Agência , Conta Corrente , Banco , CPF , Ativo Digital e Saldo. Foi adicionado também no pom.xml algumas dependências de spring, lombok, mysql, flyway, testNG testes para futuras implementações.
 
 ## 📋 Pré-requisitos
 
